@@ -6,3 +6,10 @@ ipykernel
 scikit-learn
 nltk
 joblib
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+requests
+python-dotenv
+httpx
