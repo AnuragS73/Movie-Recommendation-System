@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# personal
+tmdb_api.txt
+
 # Distribution / packaging
 .Python
 build/

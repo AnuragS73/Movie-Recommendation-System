@@ -5,3 +5,4 @@ seaborn
 ipykernel
 scikit-learn
 nltk
+joblib
