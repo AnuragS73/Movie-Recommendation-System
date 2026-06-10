@@ -37,7 +37,7 @@ path_incides = os.path.join(base_dir, model_folder, "indices.pkl")
 path_tfidf_matrix = os.path.join(base_dir, model_folder, "tfidf_matrix.pkl")
 path_tfidf = os.path.join(base_dir, model_folder, "tfidf.pkl")
 
-print(f'Baby xxx {base_dir}')
+## print(f'Baby xxx {base_dir}')
 
 df: Optional[pd.DataFrame] = None
 indices_obj: Any = None
